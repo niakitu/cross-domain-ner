@@ -28,7 +28,7 @@ The experiments were conducted using the English Web Treebank (EWT) dataset and 
   - hashtags
   - mentions
   - abbreviations
-  - inconsistent capitalization
+  - inconsistent capitalizations
   - emojis
   - informal sentence structures
 
