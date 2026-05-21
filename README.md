@@ -114,6 +114,22 @@ Mitigation_BERTweet.ipynb
 
 ---
 
+## How to Run
+
+Install required libraries:
+
+```bash
+pip install transformers datasets torch seqeval scikit-learn pandas numpy matplotlib
+```
+
+Run the notebooks in the following order:
+
+1. Baseline.ipynb  
+2. CrossDomain_EWT_to_Tweebank.ipynb  
+3. Mitigation_BERTweet.ipynb
+
+---
+
 ## Authors
 
 - Nicolai Alonso Kofoed
