@@ -36,6 +36,12 @@ Used for cross-domain evaluation.
 
 ---
 
+## Included Dataset Files
+
+The repository includes the specific EWT and Tweebank formatted files used during the experiments for reproducibility purposes.
+
+---
+
 ## Models
 
 ### Baseline Model
